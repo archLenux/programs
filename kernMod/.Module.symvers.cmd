@@ -1,0 +1,1 @@
+savedcmd_/home/sid/stuff/programs/kernMod/Module.symvers :=  scripts/mod/modpost -M  -a    -N  -o /home/sid/stuff/programs/kernMod/Module.symvers -n -T /home/sid/stuff/programs/kernMod/modules.order -i Module.symvers -e 
